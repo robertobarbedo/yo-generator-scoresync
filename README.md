@@ -23,7 +23,6 @@ npm install -g https://github.com/robertobarbedo/generator-scoresync.git
 ```
 
 
-
 Then generate in your  project:
 
 **1. Execute from the folder where your solution (.sln) file is located**
