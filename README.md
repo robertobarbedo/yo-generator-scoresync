@@ -52,7 +52,6 @@ Make sure the order of the locations is $(PATH) then .\node_modules\.bin, and th
 
 
 
-
 ## License
 
 Apache-2.0 © [Roberto Barbedo]()
